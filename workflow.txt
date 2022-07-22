@@ -1,0 +1,8 @@
+
+
+we are going to create first code on gethub
+
+language c 
+
+for only testing purpose
+
